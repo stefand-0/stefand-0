@@ -5,7 +5,7 @@ What im `working` on:
 
 • NeoH, a declarative HDL for writing easy testbenches (transpiles to SystemVerilog)
 
-• CML (Coffee Markup Language), an inline markup language for Java, allowing you to speed up the time it would take to write:
+• CML (Coffee Markup Language), an inline markup language for Java, similar to the old JavaServer Pages, but not for the web, allowing you to speed up the time it would take to write:
 - Getters, setters
 - Prototypes
 - Applications
