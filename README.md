@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello World!
+I am Stefan, a Java developer specialising in backend, the Spring ecosystem, and creating new frameworks for the Java community.
+# Projects
+What im `working` on:
+• NeoH, a declarative HDL for writing easy testbenches (transpiles to SystemVerilog)
+• CML (Coffee Markup Language), an inline markup language for Java, allowing you to speed up the time it would take to write:
+- Getters, setters
+- Prototypes
+- Applications
+- Et cetera.
 
-<!--
-**stefand-0/stefand-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Deprecated projects:
+• SunUI for Lua.
+• smallAES.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Want a cup? ☕️
