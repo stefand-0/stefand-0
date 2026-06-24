@@ -11,6 +11,8 @@ What im `working` on:
 - Applications
 - Et cetera.
 
+• Overseer, an AI-driven (AI features or any feature controlled by AI is optional) collaborative IDE, where people can work on multiple files, compile code and chat at the same time.
+
 # Deprecated projects:
 • SunUI for Lua.
 • smallAES.
