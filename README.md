@@ -1,20 +1,8 @@
 # Hello World!
-I am Stefan, a Java developer specialising in backend, the Spring ecosystem, and creating new frameworks for the Java community.
-# Projects
-What im `working` on:
+I am stefpga, an amateur SystemVerilog developer who recently got their first FPGA! (Tang Nano 1K, upgrading to 9K soon). I have been studying SystemVerilog for around 5 months, and have already made some projects.
 
-• NeoH, a declarative HDL for writing easy testbenches (transpiles to SystemVerilog)
+# Projects:
 
-• CML (Coffee Markup Language), an inline markup language for Java, similar to the old JavaServer Pages, but not for the web, allowing you to speed up the time it would take to write:
-- Getters, setters
-- Prototypes
-- Applications
-- Et cetera.
+• smallAES (Haven't implemented rounds properly)
 
-• Overseer, an AI-driven (AI features or any feature controlled by AI is optional) collaborative IDE, where people can work on multiple files, compile code and chat at the same time. 
-
-# Deprecated projects:
-• SunUI for Lua.
-• smallAES.
-
-# Want a cup? ☕️
+• NeoH, a HDL which transpiles to SystemVerilog, proficient in creating easy and fast testbenches (not suited for RTL)
